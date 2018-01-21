@@ -11,6 +11,8 @@ h1 {
     font-weight: bold;
 }
 
+
+
 article {
     position: relative;
 }
@@ -24,8 +26,16 @@ article {
     background: url(../images/main2.png) center center / cover no-repeat fixed;
 }
 
+#menu a:link, #menu a:visited, #menu a:hover {
+    color: #000;
+}
+
 #access {
     background: url(../images/main3.png) center center / cover no-repeat fixed;
+    color: #fff;
+}
+
+#access a:link, #access a:visited, #access a:hover {
     color: #fff;
 }
 
