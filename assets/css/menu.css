@@ -1,16 +1,6 @@
 @charset "UTF-8";
 
 
-li {
-    font-size: 28pt;
-    margin-left: 40px;
-}
-
-a:link, a:visited, a:hover {
-    color: #fff;
-    text-decoration: none;
-}
-
 #drink {
     background: url(../images/main4.png) center center / cover no-repeat fixed;
 }

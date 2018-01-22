@@ -11,6 +11,7 @@
 }
 
 #menu a:link, #menu a:visited, #menu a:hover {
+    text-decoration: underline;
     color: #000;
 }
 
@@ -20,7 +21,7 @@
 }
 
 #access a:link, #access a:visited, #access a:hover {
-    color: #fff;
+    text-decoration: underline;
 }
 
 .container {

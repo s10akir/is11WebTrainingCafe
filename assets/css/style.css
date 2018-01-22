@@ -51,6 +51,13 @@ ul {
 
 li {
     display: inline-block;
+    font-size: 28pt;
+    margin-left: 40px;
+}
+
+a:link, a:visited, a:hover {
+    color: #fff;
+    text-decoration: none;
 }
 
 #logo {
